@@ -1,5 +1,5 @@
 <h1 align="center">Who am I ?</h1>
-```javascript
+```js
   const myPersonalInfos = {
     fullName : "Seyed Amir Mohammad Hosseini" , 
     dateOfBirth : "September 6, 2005" , 
