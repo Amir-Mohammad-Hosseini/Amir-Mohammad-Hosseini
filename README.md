@@ -1,5 +1,14 @@
-<h1>Amir Mohammad Hosseini's Main Github page Readme</h1>
-<p>Here you can see some informations about me . I have written about my activities and languages that I have used in my projects.</p>
+<h1 align="center">Who am I ?</h1>
+```javascript
+  const myPersonalInfos = {
+    fullName : "Seyed Amir Mohammad Hosseini" , 
+    dateOfBirth : "September 6, 2005" , 
+    location : "Tehran, Iran" ,
+    martialStatus : "Single" , 
+    educationStatus : "Student" , 
+    university : "Khatam"
+  }
+```
 </br>
 </hr>
 <h2>Statistics of my activities</h2>
