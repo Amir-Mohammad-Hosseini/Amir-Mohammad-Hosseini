@@ -1,14 +1,5 @@
 <h1 align="center">Who am I ?</h1>
-```js
-  const myPersonalInfos = {
-    fullName : "Seyed Amir Mohammad Hosseini" , 
-    dateOfBirth : "September 6, 2005" , 
-    location : "Tehran, Iran" ,
-    martialStatus : "Single" , 
-    educationStatus : "Student" , 
-    university : "Khatam"
-  }
-```
+<p>I am Amir Mohammad Hosseini from Tehran , Iran . Here you can see my activities</p>
 </br>
 </hr>
 <h2>Statistics of my activities</h2>
