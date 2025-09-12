@@ -4,8 +4,7 @@
   <li>🎓 &nbsp; Computer Engineering student in Khatam University</li>
   <li>💼 &nbsp; Mern Stack developer</li>
   <li>📃 &nbsp; Improving English skills</li>
-  <li>🎶 &nbsp; Fan of Iranian pop musics</li>
-  <li>👔 &nbsp; Love clothes</li>
+  <li>📷 &nbsp; Learning Photoshop</li>
   <li>🌆 &nbsp; Live in Tehran, Iran</li>
   <li>🟢⚪🦁☀️⚪🔴 &nbsp; A natonalist Iranian</li>
 </ul>
