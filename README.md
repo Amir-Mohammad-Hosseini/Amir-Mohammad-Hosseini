@@ -6,7 +6,6 @@
   <li>📃 &nbsp; Improving English skills</li>
   <li>📷 &nbsp; Learning Photoshop</li>
   <li>🌆 &nbsp; Live in Tehran, Iran</li>
-  <li>🟢⚪🦁☀️⚪🔴 &nbsp; A natonalist Iranian</li>
 </ul>
 <h2>🔧 &nbsp; Tech Stack</h2>
 <ul>
