@@ -4,8 +4,8 @@
   <li>🎓 &nbsp; Computer Engineering student in Khatam University</li>
   <li>💼 &nbsp; Mern Stack developer</li>
   <li>📃 &nbsp; Improving English skills</li>
-  <li>📷 &nbsp; Learning Photoshop</li>
-  <li>🌆 &nbsp; Live in Tehran, Iran</li>
+  <li>🌆 &nbsp; Live in Tehran, Iran🫀</li>
+  <li>📷 &nbsp; Interested in Political, Historical, and Geopolitical topics.</li>
 </ul>
 <h2>🔧 &nbsp; Tech Stack</h2>
 <ul>
