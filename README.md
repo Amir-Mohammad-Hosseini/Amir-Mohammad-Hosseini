@@ -41,7 +41,6 @@
 
 <h2>📈 &nbsp; Statistics</h2>
 <a href="https://github.com/Amir-Mohammad-Hosseini">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Mohammad-Hosseini&show_icons=true&theme=dracula" />
-  <!-- <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohammad-Hosseini&layout=donut&theme=dracula" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-Mohammad-Hosseini&show_icons=true&theme=dracula&cache_seconds=1800" />
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Mohammad-Hosseini&layout=donut&theme=dracula&cache_seconds=1800" />
 </a>
